@@ -1,0 +1,18 @@
+PODS:
+  - CryptoSwift (0.6.0)
+  - SwiftHTTP (2.0.0)
+  - SWXMLHash (3.0.2)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - SwiftHTTP (~> 2.0.0)
+  - SWXMLHash (~> 3.0.0)
+
+SPEC CHECKSUMS:
+  CryptoSwift: 4a599b7241b8d3b857d6e2c28867d0bd5d1aae24
+  SwiftHTTP: 55a6f10e9952819ff728a3d9d1fa52ba3d266dba
+  SWXMLHash: e0f6935971f01b06fb228cf435510d998ecde647
+
+PODFILE CHECKSUM: 667e1d4b3168064c382c9d36ecbfbfd6412bf7aa
+
+COCOAPODS: 1.1.0.rc.2

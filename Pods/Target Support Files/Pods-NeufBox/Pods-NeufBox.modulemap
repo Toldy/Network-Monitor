@@ -1,0 +1,6 @@
+framework module Pods_NeufBox {
+  umbrella header "Pods-NeufBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
